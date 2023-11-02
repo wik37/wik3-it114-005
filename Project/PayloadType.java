@@ -1,4 +1,4 @@
-package Project.Part5;
+package Project.PayloadType;
 
 public enum PayloadType {
     CONNECT, DISCONNECT, MESSAGE

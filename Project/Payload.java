@@ -1,4 +1,4 @@
-package Project.Part5;
+package Project.Payload;
 import java.io.Serializable;
 public class Payload implements Serializable {
     //read https://www.baeldung.com/java-serial-version-uid
