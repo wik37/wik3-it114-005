@@ -1,4 +1,4 @@
-package Project.ServerThread;
+package Project;
 
 import java.io.IOException;
 import java.io.ObjectInputStream;
