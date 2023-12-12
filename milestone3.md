@@ -1,6 +1,6 @@
 <table><tr><td> <em>Assignment: </em> IT114 Chatroom Milestone3</td></tr>
 <tr><td> <em>Student: </em> Waheeb Khan (wik3)</td></tr>
-<tr><td> <em>Generated: </em> 12/11/2023 7:14:08 PM</td></tr>
+<tr><td> <em>Generated: </em> 12/11/2023 7:16:07 PM</td></tr>
 <tr><td> <em>Grading Link: </em> <a rel="noreferrer noopener" href="https://learn.ethereallab.app/homework/IT114-005-F23/it114-chatroom-milestone3/grade/wik3" target="_blank">Grading</a></td></tr></table>
 <table><tr><td> <em>Instructions: </em> <p>Implement the features from Milestone3 from the proposal document:&nbsp;&nbsp;<a href="https://docs.google.com/document/d/1ONmvEvel97GTFPGfVwwQC96xSsobbSbk56145XizQG4/view">https://docs.google.com/document/d/1ONmvEvel97GTFPGfVwwQC96xSsobbSbk56145XizQG4/view</a></p>
 </td></tr></table>
@@ -95,8 +95,8 @@
 <tr><td> <em>Sub-Task 3: </em> Briefly explain the code logic of how this was achieved</td></tr>
 <tr><td> <em>Response:</em> <p>The server thread maintains a list containing the names of muted clients. When<br>a client is muted, their name is added to this list, and when<br>a client is unmuted, their name is removed. The room, when sending a<br>message, consults this list on the server thread to verify whether a client<br>is muted before delivering the message to them.<br></p><br></td></tr>
 </table></td></tr>
-<table><tr><td> <em>Deliverable 7: </em> Misc </td></tr><tr><td><em>Status: </em> <img width="100" height="20" src="https://user-images.githubusercontent.com/54863474/211707795-a9c94a71-7871-4572-bfae-ad636f8f8474.png"></td></tr>
+<table><tr><td> <em>Deliverable 7: </em> Misc </td></tr><tr><td><em>Status: </em> <img width="100" height="20" src="https://user-images.githubusercontent.com/54863474/211707773-e6aef7cb-d5b2-4053-bbb1-b09fc609041e.png"></td></tr>
 <tr><td><table><tr><td> <em>Sub-Task 1: </em> Pull request from milestone3 to main</td></tr>
-<tr><td>Not provided</td></tr>
+<tr><td> <a rel="noreferrer noopener" target="_blank" href="https://github.com/wik37/wik3-it114-005/pull/3">https://github.com/wik37/wik3-it114-005/pull/3</a> </td></tr>
 </table></td></tr>
 <table><tr><td><em>Grading Link: </em><a rel="noreferrer noopener" href="https://learn.ethereallab.app/homework/IT114-005-F23/it114-chatroom-milestone3/grade/wik3" target="_blank">Grading</a></td></tr></table>
